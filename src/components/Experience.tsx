@@ -4,8 +4,8 @@ import SectionHeading from "./SectionHeading";
 const items = [
   { year: "2025", title: "B.Tech, Computer Science & Engineering", text: "Jaipur National University. Coursework in DSA, OOP, DBMS, OS and networks." },
   { year: "2025", title: "NPTEL: Communication Skills", text: "Certification from IIT Kharagpur." },
-  { year: "[YEAR]", title: "Capture The Flag (CTF)", text: "Two certificates from New Soul Genious." },
-  { year: "[YEAR]", title: "Hackathons", text: "Participated in several, including Smart India Hackathon." },
+  { year: "2026", title: "Capture The Flag (CTF)", text: "Two certificates from New Soul Genious." },
+  { year: "2026", title: "Hackathons", text: "Participated in several, including Smart India Hackathon." },
 ];
 
 export default function Experience() {
